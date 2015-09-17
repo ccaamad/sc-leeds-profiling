@@ -31,7 +31,7 @@ Making a program run more quickly can be daunting: the program might be large; i
 
 This is where profiling can help.
 
-It shows what part of a program is occupying most of its execution time, directing you to where you need to focus attention and gain insight on how it might be done better. You can try out different ways of doing the same thing and measure how much faster or slower it is.
+It shows what part of a program is occupying most of its execution time, directing you to where you need to focus attention and gain insight on how it might be done better. You can try out different ways of doing the same thing and measure how much faster or slower they are.
 
 Just as importantly, profiling shows you what you do NOT need to execute more quickly. Optimising for speed takes effort to do and easily results in hard to read code that is difficult to understand. For that reason, it is important not to optimise code that does not need to be optimised.
 
