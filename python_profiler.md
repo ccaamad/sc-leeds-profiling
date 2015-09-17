@@ -25,7 +25,7 @@ If you are using a different Python distribution, the `line_profiler` package ca
 
 #### Why do I need to profile my code?
 
-No matter how fast your computer is, some programs take too long to run. Eventually you become tired of taking tea breaks to fill the time; or you need it to tackle a problem so large, you cannot imagine it ever completing.
+No matter how fast your computer is, some programs take too long to run. Eventually you become tired of taking tea breaks to fill the time; or you need to tackle a problem so large, you cannot imagine it being completed in a reasonable time.
 
 Making a program run more quickly can be daunting: the program might be large; it might have been written by someone else, or in a language you are unfamiliar with.
 
